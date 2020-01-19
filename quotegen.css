@@ -1,0 +1,18 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center;
+    margin-left: 25%; margin-right: 25%;
+    background-color: #ccffff;
+}
+
+div {
+    border: 3px dotted #009999;
+}
+
+h1 {
+    border: 5px solid #009999; border-radius: 25px; background-color: #4dffff;
+  }
+
+button {
+    border: 3px solid #009999; background-color: #4dffff;
+}
